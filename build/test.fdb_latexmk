@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1651747085 "test.tex" "build/test.pdf" "test" 1651747086
+["pdflatex"] 1651747177 "test.tex" "build/test.pdf" "test" 1651747177
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1636758526 20144 8a7de377ae7a11ee924a7499611f5a9d ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1636758526 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
@@ -8,8 +8,8 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1651241179 2826448 6c0d7d05e9ce26dd920c7f24539d1b4d ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "build/test.aux" 1651747086 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "test.tex" 1651747085 200 3f7b8c9424307443ac96cb33d85f0d9c ""
+  "build/test.aux" 1651747177 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1651747177 219 dbbbb06ffee98505c37bc247fb9d516f ""
   (generated)
   "build/test.aux"
   "build/test.log"
